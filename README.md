@@ -3,6 +3,8 @@ Rut Library
 
 This library contain two simples class to provide you helpers methods to work with rut.
 
+[![Build Status](https://travis-ci.org/Tifon-/rut-php.svg?branch=master)](https://travis-ci.org/Tifon-/rut-php)
+
 # Usage Util
 
 ## Validate a Rut.
