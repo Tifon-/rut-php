@@ -21,7 +21,7 @@ RutUtil::validateRut(11111111, 1);
 use Tifon\Rut\RutUtil;
 
 $randomRutWithFormatter = RutUtil::generateRut();
-// Generate rut between 100000 and 200000 and separate the check digit.
+// Generate rut between 1000000 and 2000000 and separate the check digit.
 list($rut, $dv) = RutUtil::generateRut(FALSE, 1000000, 2000000);
 ```
 
