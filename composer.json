@@ -1,17 +1,17 @@
 {
-    "name": "tifon/rut-php",
-    "type": "library",
-    "description": "Rut library",
-    "license": "MIT",
-    "keywords": ["rut", "run", "chile"],
-    "homepage": "https://github.com/Tifon-/rut-php",
+    "name":             "tifon/rut-php",
+    "type":             "library",
+    "description":      "Rut library",
+    "license":          "MIT",
+    "keywords":         ["rut", "run", "chile"],
+    "homepage":         "https://github.com/Tifon-/rut-php",
     "authors": [
         {
-            "name": "Nicolas Moncada",
-            "email": "moncada.nicolas@gmail.com"
+            "name":     "Nicolas Moncada",
+            "email":    "moncada.nicolas@gmail.com"
         },
         {
-            "name": "TIFON",
+            "name":     "TIFON",
             "homepage": "http://tifon.cl"
         }
     ],
