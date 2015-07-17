@@ -5,6 +5,16 @@ This library contain two simples class to provide you helpers methods to work wi
 
 [![Build Status](https://travis-ci.org/Tifon-/rut-php.svg?branch=master)](https://travis-ci.org/Tifon-/rut-php)
 
+# Installation
+
+Using [Composer](http://getcomposer.org/) just add a dependency on `tifon/rut-php` to your project's `composer.json` file. Here is an example:
+
+    {
+        "require": {
+            "tifon/rut-php": "1.0.*"
+        }
+    }
+
 # Usage Util
 
 ## Validate a Rut.
